@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkousMalek
 - 👀 I’m interested in Web development ( MERN stack ), rocket sceince , internetofthings , PLC, SKADA and new technologies
-- 🌱 I’m currently learning MongoDB , designing databases 
+- 🌱 I’m currently learning MongoDB ,Database design 
 - 💞️ I’m looking to collaborate on a MERN web apps 
 - 📫 How to reach me at MarkousMalek@gmail.com
 
